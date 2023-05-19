@@ -1,4 +1,4 @@
-package basics;
+package src.main.java.basics;
 
 public class GrossPayCalculator {
 	public static void main(String[] args) {
